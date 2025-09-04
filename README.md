@@ -81,7 +81,7 @@ Notify family after 3 consecutive misses
 
 Frontend: Streamlit
 
-Backend API: FastAPI (example at http://127.0.0.1:8000)
+Backend API: FastAPI 
 
 Database: SQLite3 (hc_demo.db)
 
