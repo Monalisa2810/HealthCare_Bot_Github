@@ -85,7 +85,7 @@ Backend API: FastAPI
 
 Database: SQLite3 (hc_demo.db)
 
-OCR: Tesseract (pytesseract, with optional PDF2Image)
+OCR: Tesseract (pytesseract)
 
 Notifications: WhatsApp via Twilio
 
